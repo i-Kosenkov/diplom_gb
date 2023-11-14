@@ -13,7 +13,7 @@
 
 5. Разработать программу автоматизации и интеграции данных между системами электронной коммерции и системой учета и торговли Мой Склад (1С) . 
 
-### **Инструменты**: Postman, Webhook.site, Python, Flask, Aiogram, Git, Linux Debian, Crontab, Docker, Requestcatcher.com, Amazon Lightsail.
+### **Инструменты**: Postman, Webhook.site, Python, Flask, Aiogram, Git, Linux Debian, Crontab, Docker, Requestcatcher.com, Amazon Lightsail, PyCharm.
 
 ### **Структура дипломного проекта**:   
 
